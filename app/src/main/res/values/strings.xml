@@ -20,7 +20,7 @@
     </string-array>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="selected_date">Fecha seleccionada: %1$s</string>
+    <string name="selected_date">%1$s</string>
     <string name="movil_order_message">Has pedido un telefono movil.</string>
     <string name="pantalla_order_message">Has pedido una pantalla gaming.</string>
     <string name="teclado_order_message">Has pedido un teclado gaming.</string>
